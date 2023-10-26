@@ -21,10 +21,6 @@ psycopg2==2.9.9
 ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.16.1
-pyobjc-core==9.2
-pyobjc-framework-Cocoa==9.2
-pyobjc-framework-CoreBluetooth==9.2
-pyobjc-framework-libdispatch==9.2
 pytz==2023.3.post1
 six==1.16.0
 sqlparse==0.4.4
